@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T15:12:31.587Z" agent="5.0 (X11)" version="13.6.9" etag="OuD6FExl83MGV-WQZg6W" type="github"><diagram id="gEtLPoTq5LordYieAHy7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-08T15:42:49.629Z" agent="5.0 (X11)" etag="P9x_eSjtdciqgx5QPGGE" version="13.6.9" type="github">
+  <diagram id="gEtLPoTq5LordYieAHy7" name="Page-1">
+    <mxGraphModel dx="462" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RMD1T7KwvIB890RbcCi2-14" value="motosega" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="290" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RMD1T7KwvIB890RbcCi2-15" value="+id: BIGINT&#xa;&#xa;+titolo: VARCHAR (60)&#xa;+marca: VARCHAR(30)&#xa;+modello: VARCHAR(60)&#xa;+tipologia: VARCHAR(60)&#xa;+impugnatura: VARCHAR (20)&#xa;+cilindrata: VARCHAR (10)&#xa;+barra standard: TINYINT(1)+passo catena: VARCHAR(10)&#xa;+tipo motore: VARCHAR(20)&#xa;+potenza nominale: VARCHAR(10)&#xa;+lunghezza lama: VARCHAR(10)&#xa;+peso: VARCHAR(10)&#xa;+descrizione: TEXT&#xa;+accessori: VARCHAR (128)&#xa;+disponibilita&#39;: SMALLINT&#xa;+prezzo acquisto: DECIMAL(6, 2)&#xa;+prezzo di vendita: DECIMAL(6, 2)&#xa;&#xa;&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="RMD1T7KwvIB890RbcCi2-14">
+          <mxGeometry y="30" width="290" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
